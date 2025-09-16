@@ -28,16 +28,14 @@ Java 8+ installed. Maven installed. Selenium WebDriver setup (e.g., ChromeDriver
 - Run Tests
 - mvn test
 
-#  Licence   
-
-This project is licenced under the MIT Licence.  
-
 
 
 
 
 https://github.com/user-attachments/assets/069adf1d-f22e-4932-906d-ef470ed69c96
 
+# Licence   
 
+This project is licenced under the MIT Licence.
 
 
